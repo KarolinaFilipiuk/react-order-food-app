@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-order-food-app"]=this["webpackJsonpreact-order-food-app"]||[]).push([[0],{10:function(e,t,r){"use strict";r.r(t);var n=r(3),c=r.n(n),o=(r(8),r(0));var s=function(){return Object(o.jsx)("div",{children:Object(o.jsx)("h2",{children:"Let's get started!"})})};c.a.render(Object(o.jsx)(s,{}),document.getElementById("root"))},8:function(e,t,r){}},[[10,1,2]]]);
-//# sourceMappingURL=main.3cbb3dbe.chunk.js.map
